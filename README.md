@@ -17,14 +17,14 @@ This project focuses on training a deep learning model to **classify images as r
 - **Optimizer:** Adam  
 - **Loss Function:** CrossEntropyLoss  
 - **Hardware:** GPU supported (Google colab)
-- **Live loss visualization** during training  
+- **Live loss visualization** during training
 
 ---
 
 ## Results
 
-- Accuracy and loss graphs will be added after testing  
-- Model distinguishes **real vs AI-generated images** effectively  
+- Accuracy : 96.87%
+- Model distinguishes **real vs AI-generated images** effectively
 
 ---
 
